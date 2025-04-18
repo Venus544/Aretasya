@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
   <div class="hero-image">
-    <img src="https://images.unsplash.com/photo-1552058544-f2b08422138a?auto=format&fit=crop&w=900&q=80" alt="Person practicing yoga at sunrise" />
+    <img src="images/vecteezy_graphics-image-drawing-yoga-female-with-sunrise-and-mountain_8071640.jpg" alt="Person practicing yoga at sunrise" />
   </div>
 
   <section id="about">
